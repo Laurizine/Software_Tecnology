@@ -1,9 +1,95 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.15">
   <diagram name="Trang-1" id="E5V4L3Z1IngZFih8swPx">
-    <mxGraphModel>
+    <mxGraphModel dx="1281" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekFp8hZtKBu9oCPxbEhQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="441.60003662109375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-1" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekFp8hZtKBu9oCPxbEhQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-2" value="System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekFp8hZtKBu9oCPxbEhQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-3" value="&amp;nbsp;Cart Management Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekFp8hZtKBu9oCPxbEhQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="440.800048828125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-4" value="Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="160" as="sourcePoint" />
+            <mxPoint x="300" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="200" as="sourcePoint" />
+            <mxPoint x="500" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-13" value="2. Chuyển yêu cầu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ekFp8hZtKBu9oCPxbEhQ-10">
+          <mxGeometry x="-0.392" y="4" relative="1" as="geometry">
+            <mxPoint x="19" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="240" as="sourcePoint" />
+            <mxPoint x="700" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-12" value="1.&amp;nbsp;Yêu cầu hiển thị tổng tiền" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="138" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-14" value="3.&amp;nbsp;Truy vấn giỏ hàng trong database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekFp8hZtKBu9oCPxbEhQ-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="320" as="targetPoint" />
+            <mxPoint x="690" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="690" y="320" />
+              <mxPoint x="500" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-15" value="4.&amp;nbsp;Trả dữ liệu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="680" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-17" value="5. Tính tổng tiền" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="360" as="sourcePoint" />
+            <mxPoint x="100" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekFp8hZtKBu9oCPxbEhQ-19" value="5. Gửi và hiển thị tổng tiền" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="330" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
