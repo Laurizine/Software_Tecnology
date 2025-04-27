@@ -31,10 +31,14 @@
         <mxCell id="ce6OCFGgNRg08b2oijz6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ce6OCFGgNRg08b2oijz6-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="450" />
+              <mxPoint x="701" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ce6OCFGgNRg08b2oijz6-4" value="Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ce6OCFGgNRg08b2oijz6-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -51,7 +55,7 @@
         <mxCell id="ce6OCFGgNRg08b2oijz6-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ce6OCFGgNRg08b2oijz6-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="240" as="sourcePoint" />
-            <mxPoint x="700" y="240" as="targetPoint" />
+            <mxPoint x="740" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ce6OCFGgNRg08b2oijz6-12" value="1. Yêu cầu thêm/xóa&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -78,12 +82,12 @@
             <mxPoint x="700" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ce6OCFGgNRg08b2oijz6-16" value="4. lưu /xóa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="220" width="80" height="30" as="geometry" />
+        <mxCell id="ce6OCFGgNRg08b2oijz6-16" value="4. lưu /xoá/cập nhật" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="220" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ce6OCFGgNRg08b2oijz6-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="280" as="sourcePoint" />
+            <mxPoint x="740" y="280" as="sourcePoint" />
             <mxPoint x="500" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
